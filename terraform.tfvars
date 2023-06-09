@@ -1,4 +1,4 @@
-project_id             = "capacity-planning-report-3"
+project_id             = ""
 cluster_name           = "demo"
 region                 = "us-central1"
 network                = "demo-vpc-network"
